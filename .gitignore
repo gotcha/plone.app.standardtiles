@@ -13,4 +13,3 @@ build
 /lib*
 /local/
 pip-selfcheck.json
-/.vscode/settings.json
